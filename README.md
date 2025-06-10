@@ -97,9 +97,6 @@ The application includes comprehensive error handling for:
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-[Add your license information here]
-
 ## Acknowledgments
 - Streamlit for the web application framework
 - Groq for the language model API
